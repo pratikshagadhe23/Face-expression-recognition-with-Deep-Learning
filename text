@@ -1,0 +1,39 @@
+## QUESTIONS:
+-  how the images are loaded in the NN?  like in the matrices form or in the form of pixels?
+- If the images are loaded in the form of pixels then how the pixels are converted to the matrices form?
+- how the images are loaded in the NN?
+- how the pixels are converted to the matrices form?
+- how to define the i/p & o/p shape of the image?
+- how to define the number of classes in the image?
+- is the  number of classes in the image is equal to the number of neurons in the output layer?
+- how to define the number of neurons in the i/p & output layer?
+- how to define the number of neurons in the hidden layers?
+- how to define the number of hidden layers?
+- how to define the activation function in the O/P & hidden layers?
+- how to define the loss function?
+- how to define the optimizer?
+- how to define the metrics?
+- how to compile the model?
+- how to train the model?
+- how to evaluate the model?
+- how to predict the model?
+- how to save the model?
+- how to load the model?
+- how to plot the model?
+- how to define the batch size?
+- how to define the epochs?
+- how to define the learning rate?
+- how to define the dropout rate?
+- how to define the pooling size?
+- how to define the filter size?
+- how to define the padding size?
+- how to define the stride size?
+- how to define the kernel size?
+- 
+
+max and min convolutional layers how they are decided?
+max and min value of kernles?
+so after sumation of dot products in 1st kernle are these values then used in 2nd?
+when feeding images does it matter if the images have different sizes
+
+in pooling are the max/avg value schosen from the kerenl values?
